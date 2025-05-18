@@ -1,8 +1,7 @@
 # Melee Combat Prototype
 
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.4-1864ab?style=flat-square&logo=Unreal%20Engine&logoColor=white&labelColor=212529)](https://www.unrealengine.com/)
-[![GNU GPL v3](https://img.shields.io/badge/License-GNU%20GPL%20v3-1864ab?style=flat-square&logo=gnu&logoColor=white&labelColor=212529)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-1864ab?style=flat-square&logo=Ko-fi&logoColor=white&labelColor=212529)](https://ko-fi.com/luckyluke)
+
 
 A third-person melee combat prototype inspired by **Elden Ring**, **Sekiro**, and **Ghost of Tsushima**.
 
