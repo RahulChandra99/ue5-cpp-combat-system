@@ -36,29 +36,6 @@ This prototype focuses on:
 
 ---
 
-## Build Instructions
-1. Clone the repository.
-2. Open the project using **Unreal Engine 5.3**.
-3. Build the project using the **Unreal Build Tool**.
-4. Open the test map: `MeleeCombatPrototype/Maps/TestArena`.
-5. Press **Play** in the editor.
-
----
-
-## Entry Point & Project Structure
-
-### Core Entry Point
-- `AMeleeCombatGameMode` → Initializes player and world.
-- `APlayerMeleeCharacter` → Handles all player combat and movement logic.
-
-### Key Folders
-- `/Characters` → Player and enemy characters.
-- `/Weapons` → Weapon blueprints, data assets, and logic.
-- `/Animations` → Animation blueprints and montages.
-- `/Maps` → Test environments.
-
----
-
 ## Design Highlights
 - **Modular Combat System**  
   Built using an extensible component-based architecture (`UCombatComponent`), allowing easy addition of new weapons, attacks, and abilities.
@@ -71,18 +48,6 @@ This prototype focuses on:
 
 ---
 
-## Controls (Prototype)
-
-| Action        | Key / Mouse Button  |
-|---------------|---------------------|
-| Move          | WASD                |
-| Roll / Sprint | Shift (Tap / Hold)  |
-| Light Attack  | Left Mouse Button   |
-| Heavy Attack  | Right Mouse Button  |
-| Block         | Alt                 |
-| Equip Weapon  | 1 / 2 / 3           |
-
----
 
 ## Current State
 This is an **early prototype**.  
